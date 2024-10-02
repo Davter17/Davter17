@@ -1,10 +1,19 @@
 # Mario Picó - Desarrollador Web
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario%20Picó-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mario-pic%C3%B3-busquier-144442140/)
-[![GitHub](https://img.shields.io/badge/GitHub-mariopico-black?style=flat-square&logo=github)](https://github.com/mariopico)
-[![Website](https://img.shields.io/badge/Website-mariopico.site-green?style=flat-square&logo=google-chrome)](https://mariopico.site)
-[![Email](https://img.shields.io/badge/Email-mario.pico.busquier%40gmail.com-red?style=flat-square&logo=gmail)](mailto:mario.pico.busquier@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mario-pic%C3%B3-busquier-144442140/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/mario-pic%C3%B3-busquier-144442140/"/>
+  </a>
+  <a href="https://mariopico.site/">
+    <img alt="Website" src="https://img.shields.io/badge/-Portfolio-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white&link=https://mariopico.site"/>
+  </a>
+  <a href="mailto:mario.pico.busquier@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mariopico">
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/mariopico"/>
+  </a>
+</p>
 
 ---
 
