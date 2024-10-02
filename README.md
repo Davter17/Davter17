@@ -85,6 +85,6 @@ _Agosto 2017 - Octubre 2022_
 
 - LinkedIn: [Mario Picó Busquier](https://www.linkedin.com/in/mario-pic%C3%B3-busquier-144442140/)
 - Mi Web: [mariopico.site](https://mariopico.site/)
-- GitHub: [github.com/mariopico](https://github.com/Davter17)
+- GitHub: [github.com/Davter17](https://github.com/Davter17)
 
 ¡Estoy emocionado por conectarme con profesionales y potenciales empleadores que busquen talento en el mundo del desarrollo web!
