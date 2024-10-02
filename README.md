@@ -62,7 +62,7 @@ _Agosto 2017 - Octubre 2022_
 
 ## 📊 Mis estadísticas de GitHub
 
-[Estadísticas de GitHub de Mario Picó](https://github-readme-stats.vercel.app/api?username=Davter17)
+![Estadísticas de GitHub de Mario Picó](https://github-readme-stats.vercel.app/api?username=Davter17)
 
 ## 📫 Conéctate conmigo
 
