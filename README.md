@@ -10,7 +10,7 @@
   <a href="mailto:mario.pico.busquier@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/mariopico">
+  <a href="https://github.com/Davter17">
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Davter17"/>
   </a>
 </p>
@@ -85,6 +85,6 @@ _Agosto 2017 - Octubre 2022_
 
 - LinkedIn: [Mario Picó Busquier](https://www.linkedin.com/in/mario-pic%C3%B3-busquier-144442140/)
 - Mi Web: [mariopico.site](https://mariopico.site/)
-- GitHub: [github.com/mariopico](https://github.com/mariopico)
+- GitHub: [github.com/mariopico](https://github.com/Davter17)
 
 ¡Estoy emocionado por conectarme con profesionales y potenciales empleadores que busquen talento en el mundo del desarrollo web!
