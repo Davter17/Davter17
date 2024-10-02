@@ -2,6 +2,12 @@
 
 ¡Hola! 👋 Soy **Mario Picó**, un desarrollador web apasionado por crear soluciones tecnológicas que marcan la diferencia. Con formación en **Desarrollo de Aplicaciones Web** y experiencia práctica en proyectos tanto front-end como back-end, estoy en busca de mi **primer trabajo profesional** en el mundo del desarrollo. Mi objetivo es contribuir a proyectos innovadores mientras sigo aprendiendo y creciendo como desarrollador.
 
+
+## 📊 Mis estadísticas de GitHub
+
+[![Estadísticas de GitHub de Mario Picó](https://github-readme-stats.vercel.app/api?username=Davter17)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 🚀 Sobre mí
 
 - 📍 Ubicación: Elda, Alicante, España
