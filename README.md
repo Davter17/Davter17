@@ -1,5 +1,13 @@
 # Mario Picó - Desarrollador Web
 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario%20Picó-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mario-pic%C3%B3-busquier-144442140/)
+[![GitHub](https://img.shields.io/badge/GitHub-mariopico-black?style=flat-square&logo=github)](https://github.com/mariopico)
+[![Website](https://img.shields.io/badge/Website-mariopico.site-green?style=flat-square&logo=google-chrome)](https://mariopico.site)
+[![Email](https://img.shields.io/badge/Email-mario.pico.busquier%40gmail.com-red?style=flat-square&logo=gmail)](mailto:mario.pico.busquier@gmail.com)
+
+---
+
 ¡Hola! 👋 Soy **Mario Picó**, un desarrollador web apasionado por crear soluciones tecnológicas que marcan la diferencia. Con formación en **Desarrollo de Aplicaciones Web** y experiencia práctica en proyectos tanto front-end como back-end, estoy en busca de mi **primer trabajo profesional** en el mundo del desarrollo. Mi objetivo es contribuir a proyectos innovadores mientras sigo aprendiendo y creciendo como desarrollador.
 
 ## 🚀 Sobre mí
