@@ -139,6 +139,26 @@ Motor gráfico 3D en tiempo real basado en técnicas de raycasting, inspirado en
 
 ---
 
+## Proyectos en GitHub
+
+<div align="center">
+
+### 🧩 [N-Puzzle](https://github.com/Davter17/n-puzzle)
+Resolución del problema del N-Puzzle con algoritmos de búsqueda.
+
+### 📝 [42-01_getNextLine](https://github.com/Davter17/42-01_getNextLine)
+Implementación de getNextLine para lectura de líneas en C.
+
+### 🖨️ [42-01_printf](https://github.com/Davter17/42-01_printf)
+Reimplementación de printf en C con manejo de formatos.
+
+### 📚 [42-00_Libft](https://github.com/Davter17/42-00_Libft)
+Biblioteca de funciones estándar de C.
+
+</div>
+
+---
+
 ## Formación Académica
 
 ### 🎓 42 Madrid (Telefónica) | 2024 – 2026
