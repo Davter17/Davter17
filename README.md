@@ -143,39 +143,14 @@ Motor gráfico 3D en tiempo real basado en técnicas de raycasting, inspirado en
 
 <div align="center">
 
-### 🧩 [N-Puzzle](https://github.com/Davter17/n-puzzle)
-<a href="https://github.com/Davter17/n-puzzle">
-<img src="images/4_NPuzzle.jpg" width="600" alt="N-Puzzle" />
-</a>
-
-Resolución del problema del N-Puzzle con algoritmos de búsqueda.
-
----
-
-### 📝 [42-01_getNextLine](https://github.com/Davter17/42-01_getNextLine)
-<a href="https://github.com/Davter17/42-01_getNextLine">
-<img src="images/3_GetNextLine.jpg" width="600" alt="GetNextLine" />
-</a>
-
-Implementación de getNextLine para lectura de líneas en C.
-
----
-
-### 🖨️ [42-01_printf](https://github.com/Davter17/42-01_printf)
-<a href="https://github.com/Davter17/42-01_printf">
-<img src="images/2_Printf.jpg" width="600" alt="Printf" />
-</a>
-
-Reimplementación de printf en C con manejo de formatos.
-
----
-
-### 📚 [42-00_Libft](https://github.com/Davter17/42-00_Libft)
-<a href="https://github.com/Davter17/42-00_Libft">
-<img src="images/1_Libft.png" width="600" alt="Libft" />
-</a>
-
-Biblioteca de funciones estándar de C.
+<table>
+<tr>
+<td align="center"><a href="https://github.com/Davter17/n-puzzle"><img src="images/4_NPuzzle.jpg" width="250" alt="N-Puzzle" /></a></td>
+<td align="center"><a href="https://github.com/Davter17/42-01_getNextLine"><img src="images/3_GetNextLine.jpg" width="250" alt="GetNextLine" /></a></td>
+<td align="center"><a href="https://github.com/Davter17/42-01_printf"><img src="images/2_Printf.jpg" width="250" alt="Printf" /></a></td>
+<td align="center"><a href="https://github.com/Davter17/42-00_Libft"><img src="images/1_Libft.png" width="250" alt="Libft" /></a></td>
+</tr>
+</table>
 
 </div>
 
