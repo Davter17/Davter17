@@ -145,7 +145,12 @@ Motor gráfico 3D en tiempo real basado en técnicas de raycasting, inspirado en
 
 <table>
 <tr>
-<td align="center"><a href="https://github.com/Davter17/n-puzzle"><img src="images/4_NPuzzle.jpg" width="250" alt="N-Puzzle" /></a></td>
+<td align="center"><a href="https://github.com/Davter17/n-puzzle"><img src="images/7_NPuzzle.jpg" width="250" alt="N-Puzzle" /></a></td>
+<td align="center"><a href="https://github.com/Davter17/42-02_pushSwap"><img src="images/6_PushSwap.jpg" width="250" alt="PushSwap" /></a></td>
+<td align="center"><a href="https://github.com/Davter17/42-02_pipex"><img src="images/5_Pipex.jpg" width="250" alt="Pipex" /></a></td>
+<td align="center"><a href="https://github.com/Davter17/42-02_so_long"><img src="images/4_SoLong.jpg" width="250" alt="SoLong" /></a></td>
+</tr>
+<tr>
 <td align="center"><a href="https://github.com/Davter17/42-01_getNextLine"><img src="images/3_GetNextLine.jpg" width="250" alt="GetNextLine" /></a></td>
 <td align="center"><a href="https://github.com/Davter17/42-01_printf"><img src="images/2_Printf.jpg" width="250" alt="Printf" /></a></td>
 <td align="center"><a href="https://github.com/Davter17/42-00_Libft"><img src="images/1_Libft.png" width="250" alt="Libft" /></a></td>
