@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href="README.md"><img src="https://img.shields.io/badge/🇪🇸_Español-00C7B7?style=for-the-badge" alt="Español" /></a>
-<a href="README_EN.md"><img src="https://img.shields.io/badge/🇬🇧_English-AAAAAA?style=for-the-badge" alt="English" /></a>
+<a href="README.md"><img src="https://img.shields.io/badge/🇪🇸_Español-AAAAAA?style=for-the-badge" alt="Español" /></a>
+<a href="README_EN.md"><img src="https://img.shields.io/badge/🇬🇧_English-00C7B7?style=for-the-badge" alt="English" /></a>
 
 # Mario Picó Busquier
 
@@ -20,25 +20,25 @@
 
 ---
 
-## Sobre mí
+## About Me
 
-**Desarrollador Full Stack** especializado en **PHP, Laravel y JavaScript**, con experiencia en desarrollo web y liderazgo de proyectos. Formación en **Desarrollo de Aplicaciones Web** (DAW) y **42 Madrid**, con capacidad para abordar proyectos de principio a fin: desde el diseño y la implementación hasta el despliegue y publicación.
+**Full Stack Developer** specialized in **PHP, Laravel and JavaScript**, with experience in web development and project leadership. Training in **Web Application Development** (DAW) and **42 Madrid**, with the ability to tackle projects from start to finish: from design and implementation to deployment and publication.
 
-**Fundador y Desarrollador Principal** en <a href="https://icarusflightgames.com/" target="_blank">Icarus Flight Games</a>, estudio independiente de desarrollo de videojuegos donde lideré el desarrollo de **Circus of the Moon** y **7 Deaths 1 Life**, ambos publicados en Steam. Combino experiencia técnica en desarrollo full-stack con habilidades de liderazgo y gestión de equipos.
+**Founder and Lead Developer** at <a href="https://icarusflightgames.com/" target="_blank">Icarus Flight Games</a>, an independent video game development studio where I led the development of **Circus of the Moon** and **7 Deaths 1 Life**, both published on Steam. I combine technical experience in full-stack development with leadership and team management skills.
 
-- 📍 España
-- 🎓 **Nota media: 9,3** | Matrículas de Honor
-- 🎮 Game Developer | 2 juegos publicados en Steam
-- 💻 Estudiante de 42 Madrid (Telefónica)
-- 🌐 Inglés B2 | Valenciano B1
+- 📍 Spain
+- 🎓 **Average grade: 9.3** | Honors
+- 🎮 Game Developer | 2 games published on Steam
+- 💻 42 Madrid Student (Telefónica)
+- 🌐 English B2 | Valencian B1
 
 ---
 
-## Stack Tecnológico
+## Tech Stack
 
 <div align="center">
 
-### Lenguajes
+### Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -66,7 +66,7 @@
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![Ren'Py](https://img.shields.io/badge/Ren'Py-FF69B4?style=for-the-badge&logo=python&logoColor=white)
 
-### Herramientas & Metodologías
+### Tools & Methodologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -77,7 +77,7 @@
 
 ---
 
-## Proyectos en GitHub
+## Projects on GitHub
 
 <div align="center">
 
@@ -106,108 +106,108 @@
 
 ---
 
-## Proyectos Destacados
+## Featured Projects
 
-### 🎮 Circus of the Moon | Videojuego Publicado en Steam
+### 🎮 Circus of the Moon | Video Game Published on Steam
 <div align="center">
 <a href="https://store.steampowered.com/app/2381570/Circus_of_the_Moon/" target="_blank">
-<img src="https://img.shields.io/badge/Disponible_en_Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+<img src="https://img.shields.io/badge/Available_on_Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </a>
 </div>
 
-Videojuego completo desarrollado con **Python**, incluyendo lógica de juego, sistema de diálogos ramificados y gestión de eventos. Proyecto liderado desde la concepción hasta el lanzamiento comercial en Steam.
+Complete video game developed with **Python**, including game logic, branching dialogue system and event management. Project led from conception to commercial release on Steam.
 
 ---
 
-### 🎮 7 Deaths 1 Life | Videojuego Publicado en Steam
+### 🎮 7 Deaths 1 Life | Video Game Published on Steam
 <div align="center">
 <a href="https://store.steampowered.com/app/5033150/7_Deaths_1_Life/" target="_blank">
-<img src="https://img.shields.io/badge/Disponible_en_Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+<img src="https://img.shields.io/badge/Available_on_Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </a>
 </div>
 
-Videojuego de suspense psicológico desarrollado con **Python**, con sistema de narrativa ramificada, 8 personajes y 7 actos. Un proyecto que lleva la experiencia narrativa al siguiente nivel con decisiones que importan.
+Psychological suspense video game developed with **Python**, featuring branching narrative system, 8 characters and 7 acts. A project that takes the narrative experience to the next level with decisions that matter.
 
 ---
 
-### 🎯 Transcendence | Plataforma Web Full-Stack
-**Desarrollador Frontend** | Proyecto 42 Madrid
+### 🎯 Transcendence | Full-Stack Web Platform
+**Frontend Developer** | 42 Madrid Project
 
-Plataforma web inspirada en Geometry Dash, centrada en la interacción en tiempo real.
+Web platform inspired by Geometry Dash, focused on real-time interaction.
 
 **Stack:** React | JavaScript | WebSockets | PostgreSQL | JWT + OAuth | Docker + docker-compose
 
 ---
 
-### 💻 Minishell | Shell Interactiva
-**Desarrollador Backend** | Proyecto 42 Madrid
+### 💻 Minishell | Interactive Shell
+**Backend Developer** | 42 Madrid Project
 
-Shell interactiva inspirada en Bash que reproduce el comportamiento de una terminal Unix.
+Interactive shell inspired by Bash that reproduces the behavior of a Unix terminal.
 
-**Stack:** C | fork/execve | Pipes y redirecciones | Señales | Variables de entorno | Builtins | Gestión de procesos
-
----
-
-### 🎨 Cub3D | Motor Gráfico 3D
-**Desarrollador Backend** | Proyecto 42 Madrid
-
-Motor gráfico 3D en tiempo real basado en técnicas de raycasting, inspirado en Wolfenstein 3D.
-
-**Stack:** C | MiniLibX | Motor de raycasting | Texturizado | Cámara en primera persona | Gestión de eventos
+**Stack:** C | fork/execve | Pipes and redirections | Signals | Environment variables | Builtins | Process management
 
 ---
 
-## Experiencia Profesional
+### 🎨 Cub3D | 3D Graphics Engine
+**Backend Developer** | 42 Madrid Project
 
-### Desarrollador Principal | Icarus Flight Games
+Real-time 3D graphics engine based on raycasting techniques, inspired by Wolfenstein 3D.
+
+**Stack:** C | MiniLibX | Raycasting engine | Texturing | First-person camera | Event management
+
+---
+
+## Professional Experience
+
+### Lead Developer | Icarus Flight Games
 **2025 – 2026** | <a href="https://icarusflightgames.com/" target="_blank">icarusflightgames.com</a>
 
-Estudio independiente de desarrollo de videojuegos.
+Independent video game development studio.
 
-- Desarrollo de **Circus of the Moon** y **7 Deaths 1 Life**, videojuegos completos con Python: lógica de juego, sistema de diálogos ramificados y gestión de eventos
-- Liderazgo y coordinación del equipo mediante planificación de tareas, definición de hitos y supervisión de calidad
-- Diseño y desarrollo de la web corporativa utilizando HTML, CSS y JavaScript
-- Programación en Python para mecánicas, herramientas internas y automatización
+- Development of **Circus of the Moon** and **7 Deaths 1 Life**, complete video games with Python: game logic, branching dialogue system and event management
+- Team leadership and coordination through task planning, milestone definition and quality supervision
+- Design and development of the corporate website using HTML, CSS and JavaScript
+- Programming in Python for mechanics, internal tools and automation
 
 <a href="https://store.steampowered.com/app/2381570/Circus_of_the_Moon/" target="_blank"><img src="https://img.shields.io/badge/🎮_Circus_of_the_Moon-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Circus of the Moon" /></a>
 <a href="https://store.steampowered.com/app/5033150/7_Deaths_1_Life/" target="_blank"><img src="https://img.shields.io/badge/🎮_7_Deaths_1_Life-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam 7 Deaths 1 Life" /></a>
 
 ---
 
-### Desarrollador Web | Goto System Idella S.L.
+### Web Developer | Goto System Idella S.L.
 **2024**
 
-- Desarrollo de aplicación web de gestión de inventario con **PHP (Laravel)**, **JavaScript (jQuery)** y **MySQL**
-- Diseño y mantenimiento de bases de datos MySQL para CRM, optimizando consultas y estructuras
-- Desarrollo y mantenimiento de sitios corporativos con **WordPress**, **PrestaShop**, HTML5, CSS3 y JavaScript
-- Resolución de incidencias y desarrollo de mejoras funcionales en aplicaciones en producción
+- Development of web application for inventory management with **PHP (Laravel)**, **JavaScript (jQuery)** and **MySQL**
+- Design and maintenance of MySQL databases for CRM, optimizing queries and structures
+- Development and maintenance of corporate sites with **WordPress**, **PrestaShop**, HTML5, CSS3 and JavaScript
+- Incident resolution and functional improvements development in production applications
 
 ---
 
-## Formación Académica
+## Education
 
 ### 🎓 42 Madrid (Telefónica) | 2024 – 2026
-Formación intensiva en programación y desarrollo de software, con especialización práctica en C, C++ y Python.
+Intensive training in programming and software development, with practical specialization in C, C++ and Python.
 
-### 🎓 Grado Superior en Desarrollo de Aplicaciones Web (DAW)
+### 🎓 Higher Degree in Web Application Development (DAW)
 **IES Juan de Herrera** | 2022 – 2024
 
-- **Nota media: 9,3**
-- **Matrículas de Honor** en Programación, Bases de Datos y FO
+- **Average grade: 9.3**
+- **Honors** in Programming, Databases and FO
 
-### 📜 Certificaciones (2024 – 2025)
+### 📜 Certifications (2024 – 2025)
 
-| Certificación | Institución |
+| Certification | Institution |
 |---------------|-------------|
 | Cloud Computing | Labora |
-| Ciberseguridad | Labora |
+| Cybersecurity | Labora |
 | Java | Udemy |
 | Angular | Udemy |
 | Unity | EOI |
 
 ---
 
-## Estadísticas de GitHub
+## GitHub Stats
 
 <div align="center">
 
@@ -221,17 +221,17 @@ Formación intensiva en programación y desarrollo de software, con especializac
 
 ---
 
-## Contacto
+## Contact
 
 <div align="center">
 
-| Canal | Enlace |
-|-------|--------|
+| Channel | Link |
+|---------|------|
 | 💼 **LinkedIn** | <a href="https://www.linkedin.com/in/mario-pic%C3%B3-busquier-144442140/" target="_blank">Mario Picó Busquier</a> |
 | 🌐 **Icarus Flight Games** | <a href="https://icarusflightgames.com/" target="_blank">icarusflightgames.com</a> |
 | 🎮 **Steam** | <a href="https://store.steampowered.com/app/2381570/Circus_of_the_Moon/" target="_blank">Circus of the Moon</a> · <a href="https://store.steampowered.com/app/5033150/7_Deaths_1_Life/" target="_blank">7 Deaths 1 Life</a> |
 | 📧 **Email** | <a href="mailto:mario.pico.busquier@gmail.com" target="_blank">mario.pico.busquier@gmail.com</a> |
-| 📱 **Teléfono** | +34 662 210 659 |
+| 📱 **Phone** | +34 662 210 659 |
 | 💻 **GitHub** | <a href="https://github.com/Davter17" target="_blank">Davter17</a> |
 
 </div>
@@ -240,7 +240,7 @@ Formación intensiva en programación y desarrollo de software, con especializac
 
 <div align="center">
 
-*¿Interesado en colaborar? ¡Hablemos!*
+*Interested in collaborating? Let's talk!*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00C7B7&height=100&section=footer" width="100%"/>
 
