@@ -14,15 +14,16 @@ def load_projects():
 
 def generate_projects_table(projects):
     """Genera la tabla HTML de proyectos visibles"""
-    visible_projects = [p for p in projects if p[2] == 1]
+    # Invertir el orden para que los últimos aparezcan primero
+    visible_projects = [p for p in projects if p[2] == 1][::-1]
     
     if not visible_projects:
         return ""
     
-    # Generar filas de 3 columnas
+    # Generar filas de 4 columnas
     rows = []
-    for i in range(0, len(visible_projects), 3):
-        row_projects = visible_projects[i:i+3]
+    for i in range(0, len(visible_projects), 4):
+        row_projects = visible_projects[i:i+4]
         cells = []
         
         for project in row_projects:
@@ -37,7 +38,7 @@ def generate_projects_table(projects):
             cells.append(cell)
         
         # Rellenar con celdas vacías si es necesario
-        while len(cells) < 3:
+        while len(cells) < 4:
             cells.append('<td></td>')
         
         rows.append('<tr>\n' + '\n'.join(cells) + '\n</tr>')
