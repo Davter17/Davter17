@@ -6,12 +6,12 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;PHP+%7C+Laravel+%7C+JavaScript+%7C+Angular;Game+Developer+%7C+Icarus+Flight+Games;42+Madrid+Student" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-pic%C3%B3-busquier-144442140/)
-[![Website](https://img.shields.io/badge/Icarus_Flight_Games-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://icarusflightgames.com/)
-[![Steam](https://img.shields.io/badge/Circus_of_the_Moon-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/2381570/Circus_of_the_Moon/)
-[![Steam](https://img.shields.io/badge/7_Deaths_1_Life-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/5033150/7_Deaths_1_Life/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mario.pico.busquier@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Davter17)
+<a href="https://www.linkedin.com/in/mario-pic%C3%B3-busquier-144442140/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://icarusflightgames.com/" target="_blank"><img src="https://img.shields.io/badge/Icarus_Flight_Games-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+<a href="https://store.steampowered.com/app/2381570/Circus_of_the_Moon/" target="_blank"><img src="https://img.shields.io/badge/Circus_of_the_Moon-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Circus of the Moon" /></a>
+<a href="https://store.steampowered.com/app/5033150/7_Deaths_1_Life/" target="_blank"><img src="https://img.shields.io/badge/7_Deaths_1_Life-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam 7 Deaths 1 Life" /></a>
+<a href="mailto:mario.pico.busquier@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Davter17" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 **Desarrollador Full Stack** especializado en **PHP, Laravel y JavaScript**, con experiencia en desarrollo web y liderazgo de proyectos. Formación en **Desarrollo de Aplicaciones Web** (DAW) y **42 Madrid**, con capacidad para abordar proyectos de principio a fin: desde el diseño y la implementación hasta el despliegue y publicación.
 
-**Fundador y Desarrollador Principal** en [Icarus Flight Games](https://icarusflightgames.com/), estudio independiente de desarrollo de videojuegos donde lideré el desarrollo de **Circus of the Moon** y **7 Deaths 1 Life**, ambos publicados en Steam. Combino experiencia técnica en desarrollo full-stack con habilidades de liderazgo y gestión de equipos.
+**Fundador y Desarrollador Principal** en <a href="https://icarusflightgames.com/" target="_blank">Icarus Flight Games</a>, estudio independiente de desarrollo de videojuegos donde lideré el desarrollo de **Circus of the Moon** y **7 Deaths 1 Life**, ambos publicados en Steam. Combino experiencia técnica en desarrollo full-stack con habilidades de liderazgo y gestión de equipos.
 
 - 📍 España
 - 🎓 **Nota media: 9,3** | Matrículas de Honor
@@ -74,38 +74,11 @@
 
 ---
 
-## Experiencia Profesional
-
-### Desarrollador Principal | Icarus Flight Games
-**2025 – 2026** | [icarusflightgames.com](https://icarusflightgames.com/)
-
-Estudio independiente de desarrollo de videojuegos.
-
-- Desarrollo de **Circus of the Moon** y **7 Deaths 1 Life**, videojuegos completos con Python: lógica de juego, sistema de diálogos ramificados y gestión de eventos
-- Liderazgo y coordinación del equipo mediante planificación de tareas, definición de hitos y supervisión de calidad
-- Diseño y desarrollo de la web corporativa utilizando HTML, CSS y JavaScript
-- Programación en Python para mecánicas, herramientas internas y automatización
-
-[![Steam](https://img.shields.io/badge/🎮_Circus_of_the_Moon-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/2381570/Circus_of_the_Moon/)
-[![Steam](https://img.shields.io/badge/🎮_7_Deaths_1_Life-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/5033150/7_Deaths_1_Life/)
-
----
-
-### Desarrollador Web | Goto System Idella S.L.
-**2024**
-
-- Desarrollo de aplicación web de gestión de inventario con **PHP (Laravel)**, **JavaScript (jQuery)** y **MySQL**
-- Diseño y mantenimiento de bases de datos MySQL para CRM, optimizando consultas y estructuras
-- Desarrollo y mantenimiento de sitios corporativos con **WordPress**, **PrestaShop**, HTML5, CSS3 y JavaScript
-- Resolución de incidencias y desarrollo de mejoras funcionales en aplicaciones en producción
-
----
-
-## Proyectos Destacados
+## Proyectos
 
 ### 🎮 Circus of the Moon | Videojuego Publicado en Steam
 <div align="center">
-<a href="https://store.steampowered.com/app/2381570/Circus_of_the_Moon/">
+<a href="https://store.steampowered.com/app/2381570/Circus_of_the_Moon/" target="_blank">
 <img src="https://img.shields.io/badge/Disponible_en_Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </a>
 </div>
@@ -116,7 +89,7 @@ Videojuego completo desarrollado con **Python**, incluyendo lógica de juego, si
 
 ### 🎮 7 Deaths 1 Life | Videojuego Publicado en Steam
 <div align="center">
-<a href="https://store.steampowered.com/app/5033150/7_Deaths_1_Life/">
+<a href="https://store.steampowered.com/app/5033150/7_Deaths_1_Life/" target="_blank">
 <img src="https://img.shields.io/badge/Disponible_en_Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </a>
 </div>
@@ -152,29 +125,59 @@ Motor gráfico 3D en tiempo real basado en técnicas de raycasting, inspirado en
 
 ---
 
-## Proyectos en GitHub
+### Proyectos en GitHub
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center"><a href="https://store.steampowered.com/app/2381570/Circus_of_the_Moon/"><img src="images/10_CircusOfTheMoon.png" width="250" alt="Circus of the Moon" /></a></td>
-<td align="center"><a href="https://store.steampowered.com/app/5033150/7_Deaths_1_Life/"><img src="images/12_7Deaths1Life.png" width="250" alt="7 Deaths 1 Life" /></a></td>
-<td align="center"><a href="https://github.com/Davter17/n-puzzle"><img src="images/7_NPuzzle.jpg" width="250" alt="N-Puzzle" /></a></td>
-<td align="center"><a href="https://github.com/Davter17/42-02_pushSwap"><img src="images/6_PushSwap.jpg" width="250" alt="PushSwap" /></a></td>
+<td align="center"><a href="https://github.com/Davter17/42-00_Libft" target="_blank"><img src="images/1_Libft.png" width="250" alt="Libft" /></a></td>
+<td align="center"><a href="https://github.com/Davter17/42-01_printf" target="_blank"><img src="images/2_Printf.jpg" width="250" alt="Printf" /></a></td>
+<td align="center"><a href="https://github.com/Davter17/42-01_getNextLine" target="_blank"><img src="images/3_GetNextLine.jpg" width="250" alt="GetNextLine" /></a></td>
+<td align="center"><a href="https://github.com/Davter17/42-01_born2BeRoot" target="_blank"><img src="images/4_BornToBeRoot.jpg" width="250" alt="BornToBeRoot" /></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/Davter17/42-02_pipex"><img src="images/5_Pipex.jpg" width="250" alt="Pipex" /></a></td>
-<td align="center"><a href="https://github.com/Davter17/42-02_so_long"><img src="images/4_SoLong.jpg" width="250" alt="SoLong" /></a></td>
-<td align="center"><a href="https://github.com/Davter17/42-01_getNextLine"><img src="images/3_GetNextLine.jpg" width="250" alt="GetNextLine" /></a></td>
-<td align="center"><a href="https://github.com/Davter17/42-01_printf"><img src="images/2_Printf.jpg" width="250" alt="Printf" /></a></td>
+<td align="center"><a href="https://github.com/Davter17/42-02_so_long" target="_blank"><img src="images/5_SoLong.jpg" width="250" alt="SoLong" /></a></td>
+<td align="center"><a href="https://github.com/Davter17/42-02_pipex" target="_blank"><img src="images/6_Pipex.jpg" width="250" alt="Pipex" /></a></td>
+<td align="center"><a href="https://github.com/Davter17/42-02_pushSwap" target="_blank"><img src="images/7_PushSwap.jpg" width="250" alt="PushSwap" /></a></td>
+<td align="center"><a href="https://github.com/Davter17/42-03_philosophers" target="_blank"><img src="images/8_Philosophers.jpg" width="250" alt="Philosophers" /></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/Davter17/42-00_Libft"><img src="images/1_Libft.png" width="250" alt="Libft" /></a></td>
+<td align="center"><a href="https://github.com/Davter17/42-03_minishell" target="_blank"><img src="images/9_Minishell.jpg" width="250" alt="Minishell" /></a></td>
+<td align="center"><a href="https://store.steampowered.com/app/2381570/Circus_of_the_Moon/" target="_blank"><img src="images/10_CircusOfTheMoon.png" width="250" alt="Circus of the Moon" /></a></td>
+<td align="center"><a href="https://github.com/Davter17/n-puzzle" target="_blank"><img src="images/11_NPuzzle.jpg" width="250" alt="N-Puzzle" /></a></td>
+<td align="center"><a href="https://store.steampowered.com/app/5033150/7_Deaths_1_Life/" target="_blank"><img src="images/12_7Deaths1Life.png" width="250" alt="7 Deaths 1 Life" /></a></td>
 </tr>
 </table>
 
 </div>
+
+---
+
+## Experiencia Profesional
+
+### Desarrollador Principal | Icarus Flight Games
+**2025 – 2026** | <a href="https://icarusflightgames.com/" target="_blank">icarusflightgames.com</a>
+
+Estudio independiente de desarrollo de videojuegos.
+
+- Desarrollo de **Circus of the Moon** y **7 Deaths 1 Life**, videojuegos completos con Python: lógica de juego, sistema de diálogos ramificados y gestión de eventos
+- Liderazgo y coordinación del equipo mediante planificación de tareas, definición de hitos y supervisión de calidad
+- Diseño y desarrollo de la web corporativa utilizando HTML, CSS y JavaScript
+- Programación en Python para mecánicas, herramientas internas y automatización
+
+<a href="https://store.steampowered.com/app/2381570/Circus_of_the_Moon/" target="_blank"><img src="https://img.shields.io/badge/🎮_Circus_of_the_Moon-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Circus of the Moon" /></a>
+<a href="https://store.steampowered.com/app/5033150/7_Deaths_1_Life/" target="_blank"><img src="https://img.shields.io/badge/🎮_7_Deaths_1_Life-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam 7 Deaths 1 Life" /></a>
+
+---
+
+### Desarrollador Web | Goto System Idella S.L.
+**2024**
+
+- Desarrollo de aplicación web de gestión de inventario con **PHP (Laravel)**, **JavaScript (jQuery)** y **MySQL**
+- Diseño y mantenimiento de bases de datos MySQL para CRM, optimizando consultas y estructuras
+- Desarrollo y mantenimiento de sitios corporativos con **WordPress**, **PrestaShop**, HTML5, CSS3 y JavaScript
+- Resolución de incidencias y desarrollo de mejoras funcionales en aplicaciones en producción
 
 ---
 
@@ -201,16 +204,6 @@ Formación intensiva en programación y desarrollo de software, con especializac
 
 ---
 
-## Idiomas
-
-| Idioma | Nivel |
-|--------|-------|
-| Español | Nativo |
-| Inglés | B2 |
-| Valenciano | B1 |
-
----
-
 ## Estadísticas de GitHub
 
 <div align="center">
@@ -231,12 +224,12 @@ Formación intensiva en programación y desarrollo de software, con especializac
 
 | Canal | Enlace |
 |-------|--------|
-| 💼 **LinkedIn** | [Mario Picó Busquier](https://www.linkedin.com/in/mario-pic%C3%B3-busquier-144442140/) |
-| 🌐 **Icarus Flight Games** | [icarusflightgames.com](https://icarusflightgames.com/) |
-| 🎮 **Steam** | [Circus of the Moon](https://store.steampowered.com/app/2381570/Circus_of_the_Moon/) · [7 Deaths 1 Life](https://store.steampowered.com/app/5033150/7_Deaths_1_Life/) |
-| 📧 **Email** | [mario.pico.busquier@gmail.com](mailto:mario.pico.busquier@gmail.com) |
+| 💼 **LinkedIn** | <a href="https://www.linkedin.com/in/mario-pic%C3%B3-busquier-144442140/" target="_blank">Mario Picó Busquier</a> |
+| 🌐 **Icarus Flight Games** | <a href="https://icarusflightgames.com/" target="_blank">icarusflightgames.com</a> |
+| 🎮 **Steam** | <a href="https://store.steampowered.com/app/2381570/Circus_of_the_Moon/" target="_blank">Circus of the Moon</a> · <a href="https://store.steampowered.com/app/5033150/7_Deaths_1_Life/" target="_blank">7 Deaths 1 Life</a> |
+| 📧 **Email** | <a href="mailto:mario.pico.busquier@gmail.com" target="_blank">mario.pico.busquier@gmail.com</a> |
 | 📱 **Teléfono** | +34 662 210 659 |
-| 💻 **GitHub** | [Davter17](https://github.com/Davter17) |
+| 💻 **GitHub** | <a href="https://github.com/Davter17" target="_blank">Davter17</a> |
 
 </div>
 
