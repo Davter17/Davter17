@@ -30,7 +30,7 @@ My training at **42 Madrid** (Spain's most demanding programming program, backed
 
 **What I'm looking for:** A team where I can contribute my experience in full-stack development and game development, keep learning, and build products that matter.
 
-- 📍 Valencia, Spain (available for remote/relocation)
+- 📍 Alicante, Spain (available for remote/relocation)
 - 🎓 **Average grade: 9.3** | 3 Honors
 - 🎮 **2 games published on Steam** (from scratch to launch)
 - 💻 42 Madrid Student (Telefónica) - Top 15% of the promotion

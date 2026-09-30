@@ -30,7 +30,7 @@ Mi formación en **42 Madrid** (el programa de programación más exigente de Es
 
 **Lo que busco:** Un equipo donde pueda aportar mi experiencia en desarrollo full-stack y game development, seguir aprendiendo y construir productos que importen.
 
-- 📍 Valencia, España (disponibilidad para remoto/relocalización)
+- 📍 Alicante, España (disponibilidad para remoto/relocalización)
 - 🎓 **Nota media: 9,3** | 3 Matrículas de Honor
 - 🎮 **2 juegos publicados en Steam** (desde cero hasta lanzamiento)
 - 💻 Estudiante de 42 Madrid (Telefónica) - Top 15% de la promoción
