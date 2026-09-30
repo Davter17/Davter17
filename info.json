@@ -1,5 +1,5 @@
 [
-  ["0_Pool.jpg", "", 1],
+  ["0_Pool.jpg", "", 0],
   ["1_Libft.png", "https://github.com/Davter17/42-00_Libft", 1],
   ["2_Printf.jpg", "https://github.com/Davter17/42-01_printf", 1],
   ["3_GetNextLine.jpg", "https://github.com/Davter17/42-01_getNextLine", 1],
@@ -9,13 +9,13 @@
   ["7_PushSwap.jpg", "https://github.com/Davter17/42-02_pushSwap", 1],
   ["8_Philosophers.jpg", "https://github.com/Davter17/42-03_philosophers", 1],
   ["9_Minishell.jpg", "https://github.com/Davter17/42-03_minishell", 1],
-  ["10_Cub3D.jpg", "", 1],
-  ["11_CPP.jpg", "", 1],
-  ["12_Inception.jpg", "", 1],
-  ["13_Webserv.jpg", "", 1],
-  ["14_Transcendence.jpg", "", 1],
+  ["10_Cub3D.jpg", "", 0],
+  ["11_CPP.jpg", "", 0],
+  ["12_Inception.jpg", "https://github.com/Davter17/Inception", 1],
+  ["13_Webserv.jpg", "", 0],
+  ["14_Transcendence.jpg", "", 0],
   ["15_CircusOfTheMoon.png", "https://store.steampowered.com/app/2381570/Circus_of_the_Moon/", 1],
   ["16_NPuzzle.jpg", "https://github.com/Davter17/n-puzzle", 1],
-  ["17_LinearRegresion.jpg", "", 1],
+  ["17_LinearRegresion.jpg", "https://github.com/Davter17/ft_linear_regression", 1],
   ["18_7Deaths1Life.png", "https://store.steampowered.com/app/5033150/7_Deaths_1_Life/", 1]
 ]
