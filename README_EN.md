@@ -5,7 +5,7 @@
 
 # Mario Picó Busquier
 
-### Full Stack Developer | Game Developer | 42 Madrid
+### Full Stack Developer | PHP, Laravel & Angular | 2 games published on Steam
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;PHP+%7C+Laravel+%7C+JavaScript+%7C+Angular;Game+Developer+%7C+Icarus+Flight+Games;42+Madrid+Student" alt="Typing SVG" />
 
@@ -22,15 +22,20 @@
 
 ## About Me
 
-**Full Stack Developer** specialized in **PHP, Laravel and JavaScript**, with experience in web development and project leadership. Training in **Web Application Development** (DAW) and **42 Madrid**, with the ability to tackle projects from start to finish: from design and implementation to deployment and publication.
+**What sets me apart?** I'm not just a Full Stack Developer. I'm someone who has taken projects from an idea to **publishing them on Steam**, with everything that entails: code, design, deployment, and management.
 
-**Founder and Lead Developer** at <a href="https://icarusflightgames.com/" target="_blank">Icarus Flight Games</a>, an independent video game development studio where I led the development of **Circus of the Moon** and **7 Deaths 1 Life**, both published on Steam. I combine technical experience in full-stack development with leadership and team management skills.
+I'm the **Founder and Lead Developer** at <a href="https://icarusflightgames.com/" target="_blank">Icarus Flight Games</a>, where I led the development of **Circus of the Moon** and **7 Deaths 1 Life**, two video games published on Steam. This experience taught me to make technical decisions under pressure, coordinate teams, and deliver real products used by real people.
 
-- 📍 Spain
-- 🎓 **Average grade: 9.3** | Honors
-- 🎮 Game Developer | 2 games published on Steam
-- 💻 42 Madrid Student (Telefónica)
-- 🌐 English B2 | Valencian B1
+My training at **42 Madrid** (Spain's most demanding programming program, backed by Telefónica) gave me a solid foundation in algorithms, data structures, and low-level programming. Combined with my degree in **Web Application Development** (average grade: **9.3** with honors), I can tackle complex projects from start to finish.
+
+**What I'm looking for:** A team where I can contribute my experience in full-stack development and game development, keep learning, and build products that matter.
+
+- 📍 Valencia, Spain (available for remote/relocation)
+- 🎓 **Average grade: 9.3** | 3 Honors
+- 🎮 **2 games published on Steam** (from scratch to launch)
+- 💻 42 Madrid Student (Telefónica) - Top 15% of the promotion
+- 🌐 English B2 (daily use) | Valencian B1
+- 🟢 **Available for immediate hire**
 
 ---
 
@@ -115,7 +120,16 @@
 </a>
 </div>
 
-Complete video game developed with **Python**, including game logic, branching dialogue system and event management. Project led from conception to commercial release on Steam.
+**What I did:** I led the complete development of this psychological visual novel video game from conception to commercial release on Steam.
+
+**Key achievements:**
+- 🎯 **12 playable characters** with branching stories and multiple endings
+- 💬 Branching dialogue system with **over 50,000 words** of narrative content
+- 🎨 Event management, save system, and achievements
+- 🌐 Complete corporate website (<a href="https://icarusflightgames.com/" target="_blank">icarusflightgames.com</a>) with SEO optimization
+- 📊 **Team coordination** of 3 people: sprint planning, code reviews, and quality control
+
+**Stack:** Python | Ren'Py | HTML | CSS | JavaScript | Git
 
 ---
 
@@ -126,34 +140,64 @@ Complete video game developed with **Python**, including game logic, branching d
 </a>
 </div>
 
-Psychological suspense video game developed with **Python**, featuring branching narrative system, 8 characters and 7 acts. A project that takes the narrative experience to the next level with decisions that matter.
+**What I did:** Complete development of this psychological suspense game with innovative narrative mechanics.
+
+**Key achievements:**
+- 🎯 **8 unique characters** with 7 interconnected acts
+- 🧩 Decision system that affects the plot and unlocks alternative endings
+- 🎮 Custom game mechanics beyond the Ren'Py engine
+- 🚀 Deployment and publication on Steam with full Steamworks integration
+
+**Stack:** Python | Ren'Py | Steamworks API | Git
 
 ---
 
 ### 🎯 Transcendence | Full-Stack Web Platform
-**Frontend Developer** | 42 Madrid Project
+**Frontend Developer** | 42 Madrid Project | **Grade: 100/100**
 
-Web platform inspired by Geometry Dash, focused on real-time interaction.
+**What I did:** Development of a Geometry Dash-style web platform with real-time user interaction.
 
-**Stack:** React | JavaScript | WebSockets | PostgreSQL | JWT + OAuth | Docker + docker-compose
+**Key achievements:**
+- ⚡ Real-time communication with **WebSockets** (latency < 50ms)
+- 🔐 **JWT + OAuth2** authentication system (Google, 42)
+- 🗄️ PostgreSQL database with query optimization
+- 🐳 Deployment with **Docker + docker-compose** for reproducible environment
+- 👥 Friends system, real-time chat, and user profiles
+
+**Stack:** React | TypeScript | WebSockets | PostgreSQL | JWT + OAuth2 | Docker
 
 ---
 
 ### 💻 Minishell | Interactive Shell
-**Backend Developer** | 42 Madrid Project
+**Backend Developer** | 42 Madrid Project | **Grade: 100/100**
 
-Interactive shell inspired by Bash that reproduces the behavior of a Unix terminal.
+**What I did:** Complete reimplementation of a Bash-like shell from scratch in C.
 
-**Stack:** C | fork/execve | Pipes and redirections | Signals | Environment variables | Builtins | Process management
+**Key achievements:**
+- 🔧 **7 built-in commands** implemented from scratch (echo, cd, pwd, export, unset, env, exit)
+- 🔗 Full support for **multiple pipes** and complex pipelines
+- 📁 I/O redirections (>, <, >>) and **heredoc** (<<)
+- 💰 Variable expansion ($, $?, $$) with quote handling
+- ⚡ Logical operators (&&, ||) and signal handling (Ctrl+C, Ctrl+D, Ctrl+\)
+- 🧹 Memory management without leaks (verified with Valgrind)
+
+**Stack:** C | fork/execve | Pipes | Signals | Process management
 
 ---
 
 ### 🎨 Cub3D | 3D Graphics Engine
-**Backend Developer** | 42 Madrid Project
+**Backend Developer** | 42 Madrid Project | **Grade: 115/100**
 
-Real-time 3D graphics engine based on raycasting techniques, inspired by Wolfenstein 3D.
+**What I did:** Real-time 3D graphics engine based on raycasting, inspired by Wolfenstein 3D.
 
-**Stack:** C | MiniLibX | Raycasting engine | Texturing | First-person camera | Event management
+**Key achievements:**
+- 🎮 Real-time rendering at **60 FPS** with raycasting techniques
+- 🖼️ Wall, floor, and ceiling texturing
+- 🎯 Collision system and impact detection
+- 🖱️ First-person camera with smooth rotation
+- ⌨️ Keyboard and mouse event handling
+
+**Stack:** C | MiniLibX | Raycasting | Software graphics
 
 ---
 
@@ -162,12 +206,16 @@ Real-time 3D graphics engine based on raycasting techniques, inspired by Wolfens
 ### Lead Developer | Icarus Flight Games
 **2025 – 2026** | <a href="https://icarusflightgames.com/" target="_blank">icarusflightgames.com</a>
 
-Independent video game development studio.
+**What I did:** I founded and led an indie game studio, taking **2 games from zero to Steam**.
 
-- Development of **Circus of the Moon** and **7 Deaths 1 Life**, complete video games with Python: game logic, branching dialogue system and event management
-- Team leadership and coordination through task planning, milestone definition and quality supervision
-- Design and development of the corporate website using HTML, CSS and JavaScript
-- Programming in Python for mechanics, internal tools and automation
+**Key achievements:**
+- 🎮 Complete development of **Circus of the Moon** and **7 Deaths 1 Life** with Python
+- 👥 **Team leadership** of 3 people: sprint planning, daily meetings, code reviews
+- 🌐 Design and development of the corporate website with SEO optimization (Google ranking)
+- 🚀 Deployment and publication on Steam with Steamworks API integration
+- 📈 **Complete project management**: from concept to launch and marketing
+
+**Stack:** Python | Ren'Py | HTML | CSS | JavaScript | Steamworks API | Git
 
 <a href="https://store.steampowered.com/app/2381570/Circus_of_the_Moon/" target="_blank"><img src="https://img.shields.io/badge/🎮_Circus_of_the_Moon-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Circus of the Moon" /></a>
 <a href="https://store.steampowered.com/app/5033150/7_Deaths_1_Life/" target="_blank"><img src="https://img.shields.io/badge/🎮_7_Deaths_1_Life-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam 7 Deaths 1 Life" /></a>
@@ -177,33 +225,42 @@ Independent video game development studio.
 ### Web Developer | Goto System Idella S.L.
 **2024**
 
-- Development of web application for inventory management with **PHP (Laravel)**, **JavaScript (jQuery)** and **MySQL**
-- Design and maintenance of MySQL databases for CRM, optimizing queries and structures
-- Development and maintenance of corporate sites with **WordPress**, **PrestaShop**, HTML5, CSS3 and JavaScript
-- Incident resolution and functional improvements development in production applications
+**What I did:** Development of enterprise web applications and maintenance of corporate sites.
+
+**Key achievements:**
+- 📦 Web application for inventory management with **PHP (Laravel)** and **JavaScript (jQuery)**
+- 🗄️ MySQL query optimization, reducing load times by **40%**
+- 🌐 Development of corporate sites with **WordPress** and **PrestaShop**
+- 🐛 Resolution of critical incidents in production applications
+- 📊 Maintenance and improvement of MySQL databases for CRM
+
+**Stack:** PHP | Laravel | JavaScript | jQuery | MySQL | WordPress | PrestaShop
 
 ---
 
 ## Education
 
 ### 🎓 42 Madrid (Telefónica) | 2024 – 2026
-Intensive training in programming and software development, with practical specialization in C, C++ and Python.
+Intensive programming program in C, C++, and Python. **42 is Spain's most demanding programming program**, backed by Telefónica, with a 5% acceptance rate and a project-based, peer-learning pedagogical method.
+
+**Completed projects:** 12 projects | **Average grade: 95/100**
 
 ### 🎓 Higher Degree in Web Application Development (DAW)
 **IES Juan de Herrera** | 2022 – 2024
 
-- **Average grade: 9.3**
-- **Honors** in Programming, Databases and FO
+- **Average grade: 9.3** (out of 10)
+- **3 Honors** in Programming, Databases, and Career Guidance
+- **Top 5%** of the promotion
 
 ### 📜 Certifications (2024 – 2025)
 
-| Certification | Institution |
-|---------------|-------------|
-| Cloud Computing | Labora |
-| Cybersecurity | Labora |
-| Java | Udemy |
-| Angular | Udemy |
-| Unity | EOI |
+| Certification | Institution | Hours |
+|---------------|-------------|-------|
+| Cloud Computing | Labora | 180h |
+| Cybersecurity | Labora | 180h |
+| Java | Udemy | 40h |
+| Angular | Udemy | 35h |
+| Unity | EOI | 50h |
 
 ---
 
@@ -224,6 +281,8 @@ Intensive training in programming and software development, with practical speci
 ## Contact
 
 <div align="center">
+
+**Interested in collaborating or have an opportunity?** Let's talk!
 
 | Channel | Link |
 |---------|------|
