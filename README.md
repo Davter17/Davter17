@@ -88,24 +88,39 @@ Mi formación en **42 Madrid** (el programa de programación más exigente de Es
 
 <table>
 <tr>
+<td align="center"><img src="images/0_Pool.jpg" width="250" alt="Pool" /></td>
 <td align="center"><a href="https://github.com/Davter17/42-00_Libft" target="_blank"><img src="images/1_Libft.png" width="250" alt="Libft" /></a></td>
 <td align="center"><a href="https://github.com/Davter17/42-01_printf" target="_blank"><img src="images/2_Printf.jpg" width="250" alt="Printf" /></a></td>
-<td align="center"><a href="https://github.com/Davter17/42-01_getNextLine" target="_blank"><img src="images/3_GetNextLine.jpg" width="250" alt="GetNextLine" /></a></td>
 </tr>
 <tr>
+<td align="center"><a href="https://github.com/Davter17/42-01_getNextLine" target="_blank"><img src="images/3_GetNextLine.jpg" width="250" alt="GetNextLine" /></a></td>
 <td align="center"><a href="https://github.com/Davter17/42-01_born2BeRoot" target="_blank"><img src="images/4_BornToBeRoot.jpg" width="250" alt="BornToBeRoot" /></a></td>
 <td align="center"><a href="https://github.com/Davter17/42-02_so_long" target="_blank"><img src="images/5_SoLong.jpg" width="250" alt="SoLong" /></a></td>
-<td align="center"><a href="https://github.com/Davter17/42-02_pipex" target="_blank"><img src="images/6_Pipex.jpg" width="250" alt="Pipex" /></a></td>
 </tr>
 <tr>
+<td align="center"><a href="https://github.com/Davter17/42-02_pipex" target="_blank"><img src="images/6_Pipex.jpg" width="250" alt="Pipex" /></a></td>
 <td align="center"><a href="https://github.com/Davter17/42-02_pushSwap" target="_blank"><img src="images/7_PushSwap.jpg" width="250" alt="PushSwap" /></a></td>
 <td align="center"><a href="https://github.com/Davter17/42-03_philosophers" target="_blank"><img src="images/8_Philosophers.jpg" width="250" alt="Philosophers" /></a></td>
+</tr>
+<tr>
 <td align="center"><a href="https://github.com/Davter17/42-03_minishell" target="_blank"><img src="images/9_Minishell.jpg" width="250" alt="Minishell" /></a></td>
+<td align="center"><img src="images/10_Cub3D.jpg" width="250" alt="Cub3D" /></td>
+<td align="center"><img src="images/11_CPP.jpg" width="250" alt="CPP" /></td>
+</tr>
+<tr>
+<td align="center"><img src="images/12_Inception.jpg" width="250" alt="Inception" /></td>
+<td align="center"><img src="images/13_Webserv.jpg" width="250" alt="Webserv" /></td>
+<td align="center"><img src="images/14_Transcendence.jpg" width="250" alt="Transcendence" /></td>
 </tr>
 <tr>
 <td align="center"><a href="https://store.steampowered.com/app/2381570/Circus_of_the_Moon/" target="_blank"><img src="images/15_CircusOfTheMoon.png" width="250" alt="CircusOfTheMoon" /></a></td>
 <td align="center"><a href="https://github.com/Davter17/n-puzzle" target="_blank"><img src="images/16_NPuzzle.jpg" width="250" alt="NPuzzle" /></a></td>
+<td align="center"><img src="images/17_LinearRegresion.jpg" width="250" alt="LinearRegresion" /></td>
+</tr>
+<tr>
 <td align="center"><a href="https://store.steampowered.com/app/5033150/7_Deaths_1_Life/" target="_blank"><img src="images/18_7Deaths1Life.png" width="250" alt="7Deaths1Life" /></a></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
