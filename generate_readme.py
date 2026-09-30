@@ -50,20 +50,23 @@ def generate_projects_table(projects):
     return '<table>\n' + '\n'.join(rows) + '\n</table>'
 
 def update_readme(table_html):
-    """Actualiza la sección de proyectos en README.md"""
-    with open('README.md', 'r', encoding='utf-8') as f:
-        content = f.read()
+    """Actualiza la sección de proyectos en README.md y README_EN.md"""
+    readme_files = [
+        ('README.md', r'(## Proyectos\s*<div align="center">\s*)<table>.*?</table>(\s*</div>)'),
+        ('README_EN.md', r'(## Projects\s*<div align="center">\s*)<table>.*?</table>(\s*</div>)')
+    ]
     
-    # Buscar la sección de proyectos
-    pattern = r'(## Proyectos en GitHub\s*<div align="center">\s*)<table>.*?</table>(\s*</div>)'
-    replacement = r'\1' + table_html + r'\2'
+    for readme_file, pattern in readme_files:
+        with open(readme_file, 'r', encoding='utf-8') as f:
+            content = f.read()
+        
+        replacement = r'\1' + table_html + r'\2'
+        new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+        
+        with open(readme_file, 'w', encoding='utf-8') as f:
+            f.write(new_content)
     
-    new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
-    
-    with open('README.md', 'w', encoding='utf-8') as f:
-        f.write(new_content)
-    
-    print("[OK] README.md actualizado correctamente")
+    print("[OK] README.md y README_EN.md actualizados correctamente")
 
 def main():
     projects = load_projects()
