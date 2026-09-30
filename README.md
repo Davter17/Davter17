@@ -8,7 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-pic%C3%B3-busquier-144442140/)
 [![Website](https://img.shields.io/badge/Icarus_Flight_Games-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://icarusflightgames.com/)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/2381570/Circus_of_the_Moon/)
+[![Steam](https://img.shields.io/badge/Circus_of_the_Moon-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/2381570/Circus_of_the_Moon/)
+[![Steam](https://img.shields.io/badge/7_Deaths_1_Life-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/5033150/7_Deaths_1_Life/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mario.pico.busquier@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Davter17)
 
@@ -20,11 +21,11 @@
 
 **Desarrollador Full Stack** especializado en **PHP, Laravel y JavaScript**, con experiencia en desarrollo web y liderazgo de proyectos. Formación en **Desarrollo de Aplicaciones Web** (DAW) y **42 Madrid**, con capacidad para abordar proyectos de principio a fin: desde el diseño y la implementación hasta el despliegue y publicación.
 
-**Fundador y Desarrollador Principal** en [Icarus Flight Games](https://icarusflightgames.com/), estudio independiente de desarrollo de videojuegos donde lideré el desarrollo de **Circus of the Moon**, publicado en Steam. Combino experiencia técnica en desarrollo full-stack con habilidades de liderazgo y gestión de equipos.
+**Fundador y Desarrollador Principal** en [Icarus Flight Games](https://icarusflightgames.com/), estudio independiente de desarrollo de videojuegos donde lideré el desarrollo de **Circus of the Moon** y **7 Deaths 1 Life**, ambos publicados en Steam. Combino experiencia técnica en desarrollo full-stack con habilidades de liderazgo y gestión de equipos.
 
 - 📍 España
 - 🎓 **Nota media: 9,3** | Matrículas de Honor
-- 🎮 Game Developer | Juego publicado en Steam
+- 🎮 Game Developer | 2 juegos publicados en Steam
 - 💻 Estudiante de 42 Madrid (Telefónica)
 - 🌐 Inglés B2 | Valenciano B1
 
@@ -80,12 +81,13 @@
 
 Estudio independiente de desarrollo de videojuegos.
 
-- Desarrollo de **Circus of the Moon**, videojuego completo con Python: lógica de juego, sistema de diálogos ramificados y gestión de eventos
+- Desarrollo de **Circus of the Moon** y **7 Deaths 1 Life**, videojuegos completos con Python: lógica de juego, sistema de diálogos ramificados y gestión de eventos
 - Liderazgo y coordinación del equipo mediante planificación de tareas, definición de hitos y supervisión de calidad
 - Diseño y desarrollo de la web corporativa utilizando HTML, CSS y JavaScript
 - Programación en Python para mecánicas, herramientas internas y automatización
 
-[![Steam](https://img.shields.io/badge/🎮_Ver_en_Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/2381570/Circus_of_the_Moon/)
+[![Steam](https://img.shields.io/badge/🎮_Circus_of_the_Moon-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/2381570/Circus_of_the_Moon/)
+[![Steam](https://img.shields.io/badge/🎮_7_Deaths_1_Life-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/5033150/7_Deaths_1_Life/)
 
 ---
 
@@ -109,6 +111,17 @@ Estudio independiente de desarrollo de videojuegos.
 </div>
 
 Videojuego completo desarrollado con **Python**, incluyendo lógica de juego, sistema de diálogos ramificados y gestión de eventos. Proyecto liderado desde la concepción hasta el lanzamiento comercial en Steam.
+
+---
+
+### 🎮 7 Deaths 1 Life | Videojuego Publicado en Steam
+<div align="center">
+<a href="https://store.steampowered.com/app/5033150/7_Deaths_1_Life/">
+<img src="https://img.shields.io/badge/Disponible_en_Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+</a>
+</div>
+
+Videojuego de suspense psicológico desarrollado con **Python**, con sistema de narrativa ramificada, 8 personajes y 7 actos. Un proyecto que lleva la experiencia narrativa al siguiente nivel con decisiones que importan.
 
 ---
 
@@ -145,14 +158,18 @@ Motor gráfico 3D en tiempo real basado en técnicas de raycasting, inspirado en
 
 <table>
 <tr>
+<td align="center"><a href="https://store.steampowered.com/app/2381570/Circus_of_the_Moon/"><img src="images/10_CircusOfTheMoon.png" width="250" alt="Circus of the Moon" /></a></td>
+<td align="center"><a href="https://store.steampowered.com/app/5033150/7_Deaths_1_Life/"><img src="images/12_7Deaths1Life.png" width="250" alt="7 Deaths 1 Life" /></a></td>
 <td align="center"><a href="https://github.com/Davter17/n-puzzle"><img src="images/7_NPuzzle.jpg" width="250" alt="N-Puzzle" /></a></td>
 <td align="center"><a href="https://github.com/Davter17/42-02_pushSwap"><img src="images/6_PushSwap.jpg" width="250" alt="PushSwap" /></a></td>
-<td align="center"><a href="https://github.com/Davter17/42-02_pipex"><img src="images/5_Pipex.jpg" width="250" alt="Pipex" /></a></td>
-<td align="center"><a href="https://github.com/Davter17/42-02_so_long"><img src="images/4_SoLong.jpg" width="250" alt="SoLong" /></a></td>
 </tr>
 <tr>
+<td align="center"><a href="https://github.com/Davter17/42-02_pipex"><img src="images/5_Pipex.jpg" width="250" alt="Pipex" /></a></td>
+<td align="center"><a href="https://github.com/Davter17/42-02_so_long"><img src="images/4_SoLong.jpg" width="250" alt="SoLong" /></a></td>
 <td align="center"><a href="https://github.com/Davter17/42-01_getNextLine"><img src="images/3_GetNextLine.jpg" width="250" alt="GetNextLine" /></a></td>
 <td align="center"><a href="https://github.com/Davter17/42-01_printf"><img src="images/2_Printf.jpg" width="250" alt="Printf" /></a></td>
+</tr>
+<tr>
 <td align="center"><a href="https://github.com/Davter17/42-00_Libft"><img src="images/1_Libft.png" width="250" alt="Libft" /></a></td>
 </tr>
 </table>
@@ -216,7 +233,7 @@ Formación intensiva en programación y desarrollo de software, con especializac
 |-------|--------|
 | 💼 **LinkedIn** | [Mario Picó Busquier](https://www.linkedin.com/in/mario-pic%C3%B3-busquier-144442140/) |
 | 🌐 **Icarus Flight Games** | [icarusflightgames.com](https://icarusflightgames.com/) |
-| 🎮 **Steam** | [Circus of the Moon](https://store.steampowered.com/app/2381570/Circus_of_the_Moon/) |
+| 🎮 **Steam** | [Circus of the Moon](https://store.steampowered.com/app/2381570/Circus_of_the_Moon/) · [7 Deaths 1 Life](https://store.steampowered.com/app/5033150/7_Deaths_1_Life/) |
 | 📧 **Email** | [mario.pico.busquier@gmail.com](mailto:mario.pico.busquier@gmail.com) |
 | 📱 **Teléfono** | +34 662 210 659 |
 | 💻 **GitHub** | [Davter17](https://github.com/Davter17) |
