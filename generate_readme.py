@@ -28,7 +28,11 @@ def generate_projects_table(projects):
         
         for project in row_projects:
             image_name, url, _ = project
-            alt_text = image_name.split('_')[1].split('.')[0]
+            name_part = image_name.split('.')[0]
+            if '_' in name_part:
+                alt_text = name_part.split('_')[1]
+            else:
+                alt_text = name_part
             
             if url:
                 cell = f'<td align="center"><a href="{url}" target="_blank"><img src="images/{image_name}" width="250" alt="{alt_text}" /></a></td>'

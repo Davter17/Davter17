@@ -5,9 +5,9 @@
 <a href="README.md"><img src="https://img.shields.io/badge/🇪🇸_Español-AAAAAA?style=for-the-badge" alt="Español" /></a>
 <a href="README_EN.md"><img src="https://img.shields.io/badge/🇬🇧_English-00C7B7?style=for-the-badge" alt="English" /></a>
 
-### Full Stack Developer | PHP, Laravel & Angular | 2 games published on Steam
+### Full Stack Developer | Python, PHP & Angular | 2 games published on Steam
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;PHP+%7C+Laravel+%7C+JavaScript+%7C+Angular;Game+Developer+%7C+Icarus+Flight+Games;42+Madrid+Student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+PHP+%7C+JavaScript+%7C+Angular;Game+Developer+%7C+Icarus+Flight+Games;42+Madrid+Student" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/mario-pic%C3%B3-busquier-144442140/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://icarusflightgames.com/" target="_blank"><img src="https://img.shields.io/badge/Icarus_Flight_Games-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
@@ -18,35 +18,16 @@
 
 ---
 
-## About Me
-
-**What sets me apart?** I'm not just a Full Stack Developer. I'm someone who has taken projects from an idea to **publishing them on Steam**, with everything that entails: code, design, deployment, and management.
-
-I'm a **Lead Developer** at <a href="https://icarusflightgames.com/" target="_blank">Icarus Flight Games</a>, where I led the development of **Circus of the Moon** and **7 Deaths 1 Life**, two video games published on Steam. This experience taught me to make technical decisions under pressure, coordinate teams, and deliver real products used by real people.
-
-My training at **42 Madrid** (the most demanding programming program in Spain, backed by Telefónica) gave me a solid foundation in algorithms, data structures, and low-level programming. Combined with my degree in **Web Application Development** (average grade: **9.3** with honors), I can tackle complex projects from start to finish.
-
-**What I'm looking for:** A team where I can contribute my experience in full-stack development and game development, continue learning, and build products that matter.
-
-- 📍 Alicante, Spain (available for remote/relocation)
-- 🎓 **Average grade: 9.3** | 3 Honors
-- 🎮 **2 games published on Steam** (from scratch to launch)
-- 💻 42 Madrid Student (Telefónica) - **Top 1** of the cohort
-- 🌐 English B2 | Valencian B1
-- 🟢 **Available for immediate start**
-
----
-
 ## Tech Stack
 
 <table>
 <tr>
 <td><b>Languages</b></td>
 <td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -67,6 +48,8 @@ My training at **42 Madrid** (the most demanding programming program in Spain, b
 <tr>
 <td><b>Backend</b></td>
 <td>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -126,6 +109,25 @@ My training at **42 Madrid** (the most demanding programming program in Spain, b
 </table>
 
 </div>
+
+---
+
+## About Me
+
+**What sets me apart?** I'm not just a Full Stack Developer. I'm someone who has taken projects from an idea to **publishing them on Steam**, with everything that entails: code, design, deployment, and management.
+
+I'm a **Lead Developer** at <a href="https://icarusflightgames.com/" target="_blank">Icarus Flight Games</a>, where I led the development of **Circus of the Moon** and **7 Deaths 1 Life**, two video games published on Steam developed in **Python**. This experience taught me to make technical decisions under pressure, coordinate teams, and deliver real products used by real people.
+
+My training at **42 Madrid** (the most demanding programming program in Spain, backed by Telefónica) gave me a solid foundation in algorithms, data structures, and low-level programming. Combined with my degree in **Web Application Development** (average grade: **9.3** with honors), I can tackle complex projects from start to finish.
+
+**What I'm looking for:** A team where I can contribute my experience in full-stack development and game development with Python, continue learning, and build products that matter.
+
+- 📍 Alicante, Spain (available for remote/relocation)
+- 🎓 **Average grade: 9.3** | 3 Honors
+- 🎮 **2 games published on Steam** (from scratch to launch)
+- 💻 42 Madrid Student (Telefónica) - **Top 1** of the cohort
+- 🌐 English B2 | Valencian B1
+- 🟢 **Available for immediate start**
 
 ---
 
