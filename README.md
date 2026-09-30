@@ -1,9 +1,9 @@
 <div align="center">
 
+# Mario Picó Busquier
+
 <a href="README.md"><img src="https://img.shields.io/badge/🇪🇸_Español-00C7B7?style=for-the-badge" alt="Español" /></a>
 <a href="README_EN.md"><img src="https://img.shields.io/badge/🇬🇧_English-AAAAAA?style=for-the-badge" alt="English" /></a>
-
-# Mario Picó Busquier
 
 ### Full Stack Developer | PHP, Laravel & Angular | 2 juegos publicados en Steam
 
@@ -11,8 +11,6 @@
 
 <a href="https://www.linkedin.com/in/mario-pic%C3%B3-busquier-144442140/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://icarusflightgames.com/" target="_blank"><img src="https://img.shields.io/badge/Icarus_Flight_Games-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-<a href="https://store.steampowered.com/app/2381570/Circus_of_the_Moon/" target="_blank"><img src="https://img.shields.io/badge/Circus_of_the_Moon-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Circus of the Moon" /></a>
-<a href="https://store.steampowered.com/app/5033150/7_Deaths_1_Life/" target="_blank"><img src="https://img.shields.io/badge/7_Deaths_1_Life-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam 7 Deaths 1 Life" /></a>
 <a href="mailto:mario.pico.busquier@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Davter17" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
@@ -24,7 +22,7 @@
 
 **¿Qué me diferencia?** No soy solo un desarrollador Full Stack. Soy alguien que ha llevado proyectos desde una idea hasta **publicarlos en Steam**, con todo lo que eso implica: código, diseño, despliegue y gestión.
 
-Soy **Fundador y Lead Developer** en <a href="https://icarusflightgames.com/" target="_blank">Icarus Flight Games</a>, donde lideré el desarrollo de **Circus of the Moon** y **7 Deaths 1 Life**, dos videojuegos publicados en Steam. Esta experiencia me enseñó a tomar decisiones técnicas bajo presión, coordinar equipos y entregar productos reales que usan personas reales.
+Soy **Lead Developer** en <a href="https://icarusflightgames.com/" target="_blank">Icarus Flight Games</a>, donde lideré el desarrollo de **Circus of the Moon** y **7 Deaths 1 Life**, dos videojuegos publicados en Steam. Esta experiencia me enseñó a tomar decisiones técnicas bajo presión, coordinar equipos y entregar productos reales que usan personas reales.
 
 Mi formación en **42 Madrid** (el programa de programación más exigente de España, respaldado por Telefónica) me dio una base sólida en algoritmos, estructuras de datos y programación de bajo nivel. Combinado con mi grado en **Desarrollo de Aplicaciones Web** (nota media: **9,3** con matrículas de honor), puedo abordar proyectos complejos de principio a fin.
 
@@ -33,56 +31,70 @@ Mi formación en **42 Madrid** (el programa de programación más exigente de Es
 - 📍 Alicante, España (disponibilidad para remoto/relocalización)
 - 🎓 **Nota media: 9,3** | 3 Matrículas de Honor
 - 🎮 **2 juegos publicados en Steam** (desde cero hasta lanzamiento)
-- 💻 Estudiante de 42 Madrid (Telefónica) - Top 15% de la promoción
-- 🌐 Inglés B2 (trabajo diario) | Valenciano B1
+- 💻 Estudiante de 42 Madrid (Telefónica) - **Top 1** de la promoción
+- 🌐 Inglés B2 | Valenciano B1
 - 🟢 **Disponible para incorporaciones inmediatas**
 
 ---
 
 ## Stack Tecnológico
 
-<div align="center">
-
-### Lenguajes
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-### Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Game Development
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
-![Ren'Py](https://img.shields.io/badge/Ren'Py-FF69B4?style=for-the-badge&logo=python&logoColor=white)
-
-### Herramientas & Metodologías
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white)
-
-</div>
+<table>
+<tr>
+<td><b>Lenguajes</b></td>
+<td>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Game Dev</b></td>
+<td>
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white" />
+<img src="https://img.shields.io/badge/Ren'Py-FF69B4?style=for-the-badge&logo=python&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Herramientas</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white" />
+</td>
+</tr>
+</table>
 
 ---
 
-## Proyectos en GitHub
+## Proyectos
 
 <div align="center">
 
@@ -212,7 +224,7 @@ Mi formación en **42 Madrid** (el programa de programación más exigente de Es
 ### Desarrollador Principal | Icarus Flight Games
 **2025 – 2026** | <a href="https://icarusflightgames.com/" target="_blank">icarusflightgames.com</a>
 
-**Lo que hice:** Fundé y lideré un estudio indie de videojuegos, llevando **2 juegos de cero a Steam**.
+**Lo que hice:** Lideré el desarrollo de un estudio indie de videojuegos, llevando **2 juegos de cero a Steam**.
 
 **Logros clave:**
 - 🎮 Desarrollo completo de **Circus of the Moon** y **7 Deaths 1 Life** con Python
@@ -267,20 +279,6 @@ Programa intensivo de programación en C, C++ y Python. **42 es el programa de p
 | Java | Udemy | 40h |
 | Angular | Udemy | 35h |
 | Unity | EOI | 50h |
-
----
-
-## Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davter17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davter17&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Davter17&theme=radical&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7)
-
-</div>
 
 ---
 
