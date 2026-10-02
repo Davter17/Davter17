@@ -83,14 +83,20 @@
 
 <table>
 <tr>
+<td align="center"><a href="https://github.com/Alvaro297/DSLR" target="_blank"><img src="images/DSLR.jpg" width="250" alt="DSLR" /></a></td>
 <td align="center"><a href="https://store.steampowered.com/app/5033150/7_Deaths_1_Life/" target="_blank"><img src="images/7Deaths1Life.png" width="250" alt="7Deaths1Life" /></a></td>
 <td align="center"><a href="https://github.com/Davter17/ft_linear_regression" target="_blank"><img src="images/LinearRegresion.jpg" width="250" alt="LinearRegresion" /></a></td>
 <td align="center"><a href="https://github.com/Davter17/n-puzzle" target="_blank"><img src="images/NPuzzle.jpg" width="250" alt="NPuzzle" /></a></td>
-<td align="center"><a href="https://icarusflightgames.com/" target="_blank"><img src="images/icarusWeb.png" width="250" alt="icarusWeb" /></a></td>
 </tr>
 <tr>
+<td align="center"><a href="https://icarusflightgames.com/" target="_blank"><img src="images/icarusWeb.png" width="250" alt="icarusWeb" /></a></td>
 <td align="center"><a href="https://store.steampowered.com/app/2381570/Circus_of_the_Moon/" target="_blank"><img src="images/CircusOfTheMoon.png" width="250" alt="CircusOfTheMoon" /></a></td>
+<td align="center"><a href="https://github.com/Alvaro297/ft_transcendence" target="_blank"><img src="images/Transcendence.jpg" width="250" alt="Transcendence" /></a></td>
+<td align="center"><a href="https://github.com/Alvaro297/webserv" target="_blank"><img src="images/Webserv.jpg" width="250" alt="Webserv" /></a></td>
+</tr>
+<tr>
 <td align="center"><a href="https://github.com/Davter17/Inception" target="_blank"><img src="images/Inception.jpg" width="250" alt="Inception" /></a></td>
+<td align="center"><a href="https://github.com/manuelcuesta2005/cub3d" target="_blank"><img src="images/Cub3D.jpg" width="250" alt="Cub3D" /></a></td>
 <td align="center"><a href="https://github.com/Davter17/42-03_minishell" target="_blank"><img src="images/Minishell.jpg" width="250" alt="Minishell" /></a></td>
 <td align="center"><a href="https://github.com/Davter17/42-03_philosophers" target="_blank"><img src="images/Philosophers.jpg" width="250" alt="Philosophers" /></a></td>
 </tr>
