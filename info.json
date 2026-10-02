@@ -15,7 +15,9 @@
   ["Webserv.jpg", "", 0],
   ["Transcendence.jpg", "", 0],
   ["CircusOfTheMoon.png", "https://store.steampowered.com/app/2381570/Circus_of_the_Moon/", 1],
+  ["icarusWeb.png", "https://icarusflightgames.com/", 1],
   ["NPuzzle.jpg", "https://github.com/Davter17/n-puzzle", 1],
   ["LinearRegresion.jpg", "https://github.com/Davter17/ft_linear_regression", 1],
-  ["18_7Deaths1Life.png", "https://store.steampowered.com/app/5033150/7_Deaths_1_Life/", 1]
+  ["7Deaths1Life.png", "https://store.steampowered.com/app/5033150/7_Deaths_1_Life/", 1],
+  ["DSLR.jpg", "https://github.com/Alvaro297/DSLR", 0]
 ]
