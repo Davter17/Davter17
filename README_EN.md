@@ -83,7 +83,7 @@
 
 <table>
 <tr>
-<td align="center"><a href="https://github.com/Alvaro297/DSLR" target="_blank"><img src="images/DSLR.jpg" width="250" alt="DSLR" /></a></td>
+<td align="center"><a href="https://github.com/Alvaro297/DSLR" target="_blank"><img src="images/DSLR2.jpg" width="250" alt="DSLR2" /></a></td>
 <td align="center"><a href="https://store.steampowered.com/app/5033150/7_Deaths_1_Life/" target="_blank"><img src="images/7Deaths1Life.png" width="250" alt="7Deaths1Life" /></a></td>
 <td align="center"><a href="https://github.com/Davter17/ft_linear_regression" target="_blank"><img src="images/LinearRegresion.jpg" width="250" alt="LinearRegresion" /></a></td>
 <td align="center"><a href="https://github.com/Davter17/n-puzzle" target="_blank"><img src="images/NPuzzle.jpg" width="250" alt="NPuzzle" /></a></td>
