@@ -103,7 +103,7 @@
 <tr>
 <td align="center"><a href="https://github.com/Davter17/42-01_printf" target="_blank"><img src="images/Printf.jpg" width="250" alt="Printf" /></a></td>
 <td align="center"><a href="https://github.com/Davter17/42-00_Libft" target="_blank"><img src="images/Libft.png" width="250" alt="Libft" /></a></td>
-<td></td>
+<td align="center"><a href="https://github.com/Davter17/Piscine42" target="_blank"><img src="images/Pool.jpg" width="250" alt="Pool" /></a></td>
 <td></td>
 </tr>
 </table>
